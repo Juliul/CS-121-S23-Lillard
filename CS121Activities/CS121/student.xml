@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student id="1">
+        <lastname>Lillard</lastname>
+        <firstname>Julius</firstname>
+        <studentid>47933</studentid>
+        <major>CT</major>
+        <gpa>3.67</gpa>
+    </student>
+    <student id="2">
+        <lastname>Bemis</lastname>
+        <firstname>Jacob</firstname>
+        <studentid>47932</studentid>
+        <major>CS</major>
+        <gpa>3.96</gpa>
+    </student>
+</students>
