@@ -1,0 +1,5 @@
+course credits score
+null null null
+null null null
+null null null
+null null null
